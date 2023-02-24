@@ -35,11 +35,12 @@ Here are some example images captured by the camera and processed by our algorit
 Example 1
 Example 2
 Example 3
+
 Acknowledgements
 
 We would like to thank the following contributors for their help with this project:
 
-    alexis charalambous - Bee hive hardware and software development
+    Alexis Charalambous and Makerspace @CYENS - Bee hive hardware and software development
     Chirag Padubidri - Data Analysis and Algorithm development
 
 License
